@@ -1,0 +1,15 @@
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/bin/Debug/net6.0/Estagio-Target-Sistemas
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/bin/Debug/net6.0/Estagio-Target-Sistemas.deps.json
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/bin/Debug/net6.0/Estagio-Target-Sistemas.runtimeconfig.json
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/bin/Debug/net6.0/Estagio-Target-Sistemas.dll
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/bin/Debug/net6.0/ref/Estagio-Target-Sistemas.dll
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/bin/Debug/net6.0/Estagio-Target-Sistemas.pdb
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.csproj.AssemblyReference.cache
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.GeneratedMSBuildEditorConfig.editorconfig
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.AssemblyInfoInputs.cache
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.AssemblyInfo.cs
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.csproj.CoreCompileInputs.cache
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.dll
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/ref/Estagio-Target-Sistemas.dll
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.pdb
+/home/pipetoroc/Devs/Estagio-Target-Sistemas/obj/Debug/net6.0/Estagio-Target-Sistemas.genruntimeconfig.cache
