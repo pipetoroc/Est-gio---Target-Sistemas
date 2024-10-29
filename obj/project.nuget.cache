@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5H5Kac1dmDfJOiPAufRWJgdfkXNc6ATEXZo8ncTugxvEuyn/01tlnjHTmquHgaj0k8ayFBopbB2tAf14maBLog==",
+  "dgSpecHash": "hYqSZXR7yKFAV08F4+92ITdcskz64xIqrmYBKskSJYzuqeuTbjuAx2MoiTvZuZPlI2fLz8i1mb8eTA8HRgISAQ==",
   "success": true,
   "projectFilePath": "/home/pipetoroc/Devs/Estagio-Target-Sistemas/Estagio-Target-Sistemas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/pipetoroc/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

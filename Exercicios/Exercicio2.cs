@@ -4,8 +4,17 @@ namespace Estagio_Target_Sistemas.Exercicios
     {
         public static void Executa(int n)
         {
-            if (n <= 0) Console.WriteLine(0);
-            if (n == 1) Console.WriteLine(1);
+            // Manejo de casos especiales
+            if (n <= 0)
+            {
+                Console.WriteLine($"O número {n} da sequência Fibonacci é: 0");
+                return;
+            }
+            else if (n == 1)
+            {
+                Console.WriteLine($"O número {n} da sequência Fibonacci é: 1");
+                return;
+            }
 
             int a = 0;
             int b = 1;
